@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JosephPM39/practice-platzi_advance-arrays-js#readme",
   "dependencies": {
+    "date-fns": "^2.28.0",
     "http-server": "^14.1.0"
   }
 }
